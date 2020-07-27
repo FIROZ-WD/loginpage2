@@ -1,0 +1,76 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{
+	background:#EDF0F5;
+}
+.form{
+	width:615px;
+	height:615px;
+	background: #01AFAD;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	padding: 15px;
+	border: 2px solid transparent;
+	box-shadow:-webkit-box-shadow: 4px 5px 23px 0px rgba(9,9,10,1);
+    -moz-box-shadow: 4px 5px 23px 0px rgba(9,9,10,1);
+    box-shadow: 4px 5px 23px 0px rgba(9,9,10,1);
+	padding:100px 110px;
+}
+
+.hd{
+	color:white;
+	text-align:center;
+	font-size:30px;
+	font-weight:600;
+	
+}
+span {
+	border-bottom:2px solid white;
+	padding-bottom:7px;
+}
+
+i {
+	background:white;
+	color:#01AFAD;
+	padding:15px;
+	border-radius:50%;
+	font-size:25px;
+}
+
+.user {
+	height:50px;
+	width:320px;
+	padding:20px 25px;
+	font-weight:600;
+	color:gray;
+	border-radius:50px;
+	border:transparent;
+	margin-top:35px;
+	margin-left:10px;
+	
+}
+.login {
+	height:50px;
+	width:320px;
+	font-size:20px;
+	font-weight:600;
+	color:#01AFAD;
+	background:white;
+	border:transparent;
+	border-radius:50px;
+	margin-top:35px;
+	margin-left:10px;
+}
+.likha {
+	font-size:17px;
+	font-weight:600;
+	color:#018A84;
+	text-align:center;
+	margin-top:45px;
+	
+}
